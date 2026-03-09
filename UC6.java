@@ -25,15 +25,6 @@ public class UC6 {
                 " ***** "
         };
     }
-    public static String[] buildO() {
-        return new String[]{
-                " ***** ",
-                "*     *",
-                "*     *",
-                "*     *",
-                " ***** "
-        };
-    }
 
     public static String[] buildP() {
         return new String[]{
